@@ -1,0 +1,8 @@
+// filepath: /d:/Bunheab/Project/Vue-Project/movie-pro1/tsconfig.json
+{
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "src/**/*.vue"
+  ]
+}
