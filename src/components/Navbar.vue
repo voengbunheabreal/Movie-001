@@ -53,7 +53,7 @@
         <li class="nav-item ml-2">
           <a
             href="#"
-            class="block px-3 py-2 text-white hover:bg-gray-700 rounded-md"
+            class="block px-3 py-2 text-white hover:opacity-85"
           >
             Home
           </a>
@@ -61,7 +61,7 @@
         <li class="nav-item ml-2">
           <a
             href="#"
-            class="block px-3 py-2 text-white hover:bg-gray-700 rounded-md"
+            class="block px-3 py-2 text-white hover:opacity-85"
           >
             Chinese
           </a>
@@ -69,7 +69,7 @@
         <li class="nav-item ml-2">
           <a
             href="#"
-            class="block px-3 py-2 text-white hover:bg-gray-700 rounded-md"
+            class="block px-3 py-2 text-white hover:opacity-85"
           >
             Thai
           </a>
@@ -77,7 +77,7 @@
         <li class="nav-item ml-2">
           <a
             href="#"
-            class="block px-3 py-2 text-white hover:bg-gray-700 rounded-md"
+            class="block px-3 py-2 text-white hover:opacity-85"
           >
             Indonesia
           </a>
@@ -85,7 +85,7 @@
         <li class="nav-item ml-2">
           <a
             href="#"
-            class="block px-3 py-2 text-white hover:bg-gray-700 rounded-md"
+            class="block px-3 py-2 text-white hover:opacity-85"
           >
             Khmer
           </a>
@@ -93,7 +93,7 @@
         <li class="nav-item ml-2">
           <a
             href="#"
-            class="block px-3 py-2 text-white hover:bg-gray-700 rounded-md"
+            class="block px-3 py-2 text-white hover:opacity-85"
           >
             Contact
           </a>
